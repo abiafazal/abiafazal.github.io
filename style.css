@@ -1,1 +1,19 @@
-
+ <style> body {background-color:rgb(194, 204, 209);
+     border:10px solid blue} 
+     .name  {color: rgb(31, 57, 191);
+        }  
+        .list {color: rgb(23, 38, 107)}  
+        body {background-color:rgb(194, 204, 209);
+     border:10px solid blue} 
+     .title  {color: rgb(23, 38, 107);
+     
+      .girls    {color: rgb(240, 57, 124);
+       
+        }  
+    .guys  {color: rgb(31, 57, 191);
+        } 
+        #sport-team {color: rgb(23, 38, 107);
+        } 
+        #clubs {color: rgb(23, 38, 107);
+        } 
+    </style>
