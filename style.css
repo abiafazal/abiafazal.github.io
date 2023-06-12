@@ -7,8 +7,10 @@
     margin-right:auto;
         border:20px solid navy;  }
           
-    .center {text-align:center;}
-         
+    .center {text-align:center;
+        margin-right:auto;
+        margin-left:auto;
+    }
         .list {color: rgb(23, 38, 107)}  
      .title  {color: rgb(23, 38, 107);
      
