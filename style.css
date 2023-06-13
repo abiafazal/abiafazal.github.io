@@ -1,6 +1,10 @@
  
  body {background-color:rgb(194, 204, 209);
-           .name  {color: rgb(31, 57, 191);
+           .name  {color: rgb(31, 57, 191
+          max-width:800px;
+            margin-left:auto;
+            margin-right:auto;
+            border:20px solid navy;
                background-color:rgb(123, 146, 166)}
     .max {max-width:1000px;
     margin-left:auto;
