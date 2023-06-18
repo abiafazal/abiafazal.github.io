@@ -4,7 +4,6 @@
     .navbar a:hover {background-color:rgb(38,92,150);}
 .whole-page {max-width:800px;overflow:auto;}
 .center-heading-text {text-align:center; color:rgb(9, 43, 82); font-family:cursive;text-decoration: underline;}
-.department-image {width:50%;float:right;}
 .team-members-image {width:40%;float:right;text-align:justify;}
 .sports-team {width:95%;float:left;text-align:justify;}
 .paragraph {background-color:rgb(87, 133, 171);color:navy;font-family:cursive;border:double;}
