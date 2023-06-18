@@ -1,10 +1,10 @@
-  body {background-color:rgb(223, 233, 245); border: 10px solid rgb(9, 43, 82);}
+ body {background-color:rgb(223, 233, 245); border: 10px solid rgb(9, 43, 82);}
 .navbar {background-color: rgb(104, 141, 176); padding:15px;}
   .navbar a {color: black;padding: 15px;}
     .navbar a:hover {background-color:rgb(38,92,150);}
-.whole-page {max-width:600px;overflow:auto;}
+.whole-page {max-width:800px;overflow:auto;}
 .center-heading-text {text-align:center; color:rgb(9, 43, 82); font-family:cursive;text-decoration: underline;}
 .department-image {width:50%;float:right;}
-.admissions {width:40%;float:right;text-align:justify;}
-.sports-team {width:95%;float:left;text-align:justify;}
-
+.sports-team{width:40%;float:left;}
+.overview-list{text-align:center;}
+    </style>
