@@ -1,25 +1,12 @@
+  body {background-color:rgb(223, 233, 245); border: 10px solid rgb(9, 43, 82);}
+.navbar {background-color: rgb(104, 141, 176); padding:15px;}
+  .navbar a {color: black;padding: 15px;}
+    .navbar a:hover {background-color:rgb(38,92,150);}
+.whole-page {max-width:800px;overflow:auto;}
+.center-heading-text {text-align:center; color:rgb(9, 43, 82); font-family:cursive;text-decoration: underline;}
+.department-image {width:50%;float:right;}
+.admissions {width:40%;float:right;text-align:justify;}
+.sports-team {width:95%;float:left;text-align:justify;}
  
- body {background-color:rgb(194, 204, 209);
-           .name  {color: rgb(31, 57, 19);
-               background-color:rgb(123, 146, 166)}
-    .max {max-width:1000px;
-    margin-left:auto;
-    margin-right:auto;
-        border:20px solid navy;  }
-          
-    .center {text-align:center;
-        margin-right:auto;
-        margin-left:auto;
-    }
-        .list {color: rgb(23, 38, 107)}  
-     .title  {color: rgb(23, 38, 107);
-     
-      .girls    {color: rgb(240, 57, 124);
-       
-        }  
-    .guys  {color: rgb(31, 57, 191);
-        } 
-        .awards {color: rgb(23, 38, 107);
-        } 
-        #department {color: rgb(23, 38, 107);
-        } 
+
+
