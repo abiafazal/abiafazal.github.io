@@ -1,4 +1,4 @@
-    body {background-color:rgb(223, 233, 245); border: 10px solid rgb(9, 43, 82);}
+   body {background-color:rgb(223, 233, 245); border: 10px solid rgb(9, 43, 82);}
 .navbar {background-color: rgb(104, 141, 176); padding:15px;}
   .navbar a {color: black;padding: 15px;}
     .navbar a:hover {background-color:rgb(38,92,150);}
@@ -7,4 +7,7 @@
 .team-members-image {width:40%;float:right;text-align:justify;}
 .sports-team {width:95%;float:left;text-align:justify;}
 .paragraph {background-color:rgb(87, 133, 171);color:navy;font-family:cursive;border:double;}
-.department{width:50%;float:right;}
+.department{width:50%;float:right;}   
+.table {background-color:rgb(192, 213, 250);border:3px solid navy;
+.ap-students{width:50%;float:right;} 
+
